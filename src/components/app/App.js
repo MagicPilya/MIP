@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react';
-import {BrowserRouter as HashRouter, Route, Routes} from 'react-router-dom';
+import {BrowserRouter as HashRouter, Router, Route, Routes} from 'react-router-dom';
 
 import AppHeader from "../appHeader/AppHeader";
 import Spinner from '../spinner/Spinner';
