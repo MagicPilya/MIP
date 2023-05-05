@@ -5,7 +5,7 @@
 >[Show Demo](https://magicpilya.github.io/MIP/)
 ## How to use
 ```
-$ git clone https://github.com/MrScotch679/Marvel-information-portal.git
+$ git clone https://github.com/MagicPilya/MIP.git
 $ npm install
 ```
 ## Run project
